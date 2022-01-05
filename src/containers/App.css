@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Bebas+Neue&family=Chelsea+Market&family=Emilys+Candy&display=swap');
+h1 {
+	font-family: 'Emilys Candy', cursive;
+	color: #91A6BC;
+}
+
+h2 {
+	font-family: 'Chelsea Market', serif;
+}
+
+h3, p {
+	font-family:  'Amiri', serif;
+}
